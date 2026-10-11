@@ -31,7 +31,7 @@ When someone visits ForkLore, the core experience breaks down into three primary
 
 ### 1. Technology Choices
 
-#### Frontend (Client-Side)
+#### Frontend (Client-Side - Carlos)
 * **Core:** React 18 (bootstrapped with Vite)
 * **Routing:** React Router v6
 * **Styling:** Tailwind CSS

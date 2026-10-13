@@ -31,7 +31,7 @@ When someone visits ForkLore, the core experience breaks down into three primary
 
 ### 1. Technology Choices
 
-#### Frontend (Client-Side - Carlos)
+#### Frontend (Client-Side)
 * **Core:** React 18 (bootstrapped with Vite)
 * **Routing:** React Router v6
 * **Styling:** Tailwind CSS
@@ -131,7 +131,7 @@ These endpoints define the contract between the React frontend and the Express b
   * Breadcrumb navigation to track reading progress back through parent nodes.
 
 ### Track B: Authoring Suite & Story Discovery
-* **Owner:** [Name / GitHub]
+* **Owner:** [Carlos Aguilar]
 * **Focus:** Story initialization, narrative expansion, and content categorization.
 
 * **Backend:**

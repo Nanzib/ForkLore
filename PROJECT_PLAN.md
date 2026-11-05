@@ -131,7 +131,7 @@ These endpoints define the contract between the React frontend and the Express b
   * Breadcrumb navigation to track reading progress back through parent nodes.
 
 ### Track B: Authoring Suite & Story Discovery
-* **Owner:** [Carlos Aguilar]
+* **Owner:** Carlos Aguilar
 * **Focus:** Story initialization, narrative expansion, and content categorization.
 
 * **Backend:**
@@ -145,7 +145,7 @@ These endpoints define the contract between the React frontend and the Express b
   * Form controls for setting choice prompts and flagging story endings.
 
 ### Track C: Identity, Consensus & Voting
-* **Owner:** [Name / GitHub]
+* **Owner:** Rubin Kataroshi 
 * **Focus:** User authentication, session security, and the community voting ledger.
 
 * **Backend:**
